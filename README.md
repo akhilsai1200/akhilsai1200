@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akhilsai1200
+- 👋 Hi, I’m Akhilsai
 - 👀 I’m interested in Learning Anything
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
